@@ -4,4 +4,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thomaschaplin&show_icons=true" alt="thomaschaplin" /> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschaplin" alt="thomaschaplin" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschaplin" alt="thomaschaplin" /> </p>
