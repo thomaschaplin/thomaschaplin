@@ -1,7 +1,11 @@
-<h1 align="center">Thomas Chaplin</h1>
-<h3 align="center">Software Development Engineer in Test</h3>
+#### 🔭 I’m currently working at [Tray.io](https://tray.io/)
 
+#### 🌱 I’m currently learning [vim](https://neovim.io/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thomaschaplin&show_icons=true" alt="thomaschaplin" /> </p>
+#### 👯 I’m looking to collaborate on anything open source
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschaplin" alt="thomaschaplin" /> </p>
+#### 💬 Ask me about anything to do with automation or testing
+
+#### 📫 How to reach me: [Email](mailto:thomaschaplin@outlook.com) / [Twitter](https://twitter.com/ThomasChaplin_) / [LinkedIn](https://www.linkedin.com/in/thomas-chaplin/) / [YouTube](https://www.youtube.com/channel/UCgrsESnTqiMw37T-Xh5FW-g) [Website](https://www.thomaschaplin.me/)
+
+#### 🎣 Fun fact: I enjoy fishing
