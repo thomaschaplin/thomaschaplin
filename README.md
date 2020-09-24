@@ -3,6 +3,7 @@
 #### 🌱 I’m currently learning [vim](https://neovim.io/)
 
 #### 👯 I’m looking to collaborate on anything open source
+I have contributed to [playwright](https://github.com/microsoft/playwright)
 
 #### 💬 Ask me about anything to do with automation or testing
 
