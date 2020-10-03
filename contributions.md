@@ -1,11 +1,11 @@
 # Contributions
 
-Here are a list of all my open source contributions.
+Here is a list of all my open source contributions.
 
 
 ## Pull Requests
 
-Here are a list of my open source contributions
+The below list contains all the pull requests I've submitted (and have been approved and merged) 
 
 * [microsoft/playwright](https://github.com/microsoft/playwright)
 	* [chore(typo): resolve typo in src/progress.ts](https://github.com/microsoft/playwright/pull/4041)
