@@ -5,7 +5,7 @@ We're hiring great people just like you, take a look at some of the [open positi
 TypeScript is my happy place but I'm interested in learning a new language.
 
 #### 👯 I’m looking to collaborate on anything open source
-I have contributed to [playwright](https://github.com/microsoft/playwright).
+I have contributed to various repositories, see the full list [here](contributions.md).
 
 #### 💬 Ask me about anything to do with automation or testing
 As a SDET I love all things automated!
