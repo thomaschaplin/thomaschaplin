@@ -22,3 +22,4 @@ The below list contains all the pull requests I've submitted (and have been appr
 	* [fix typos](https://github.com/rickschubert/jest-json-schema-extended/pull/9)
 * [kelonio](https://github.com/mtkennerly/kelonio)
 	* [test(jest): rename keepState to keepStateAtEnd](https://github.com/mtkennerly/kelonio/pull/2)
+	* [feat(verifyMeasurement): add marginOfErrorUnder & standardDeviationUnder](https://github.com/mtkennerly/kelonio/pull/3)
