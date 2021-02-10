@@ -23,5 +23,5 @@ The below list contains all the pull requests I've submitted (and have been appr
 * [mtkennerly/kelonio](https://github.com/mtkennerly/kelonio)
 	* [test(jest): rename keepState to keepStateAtEnd](https://github.com/mtkennerly/kelonio/pull/2)
 	* [feat(verifyMeasurement): add marginOfErrorUnder & standardDeviationUnder](https://github.com/mtkennerly/kelonio/pull/3)
-  * [add printResultsAtEnd option & update examples & test coverage](https://github.com/mtkennerly/kelonio/pull/4)
-	* [Stop throwing error when state does not exist](https://github.com/mtkennerly/kelonio/pull/6)
+  	* [add printResultsAtEnd option & update examples & test coverage](https://github.com/mtkennerly/kelonio/pull/4)
+	* [initializeKelonio now creates an empty state](https://github.com/mtkennerly/kelonio/pull/6)
