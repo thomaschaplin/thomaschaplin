@@ -18,6 +18,7 @@ The below list contains all the pull requests I've submitted (and have been appr
 	* [add types to lib.ts](https://github.com/rickschubert/fountain-note-taker/pull/3)
 * [rickschubert/jira-ticket](https://github.com/rickschubert/jira-ticket)
 	* [fix typo for KnownIssueWorklfowUrl](https://github.com/rickschubert/jira-ticket/pull/1)
+	* [improve openLinkInBrowser to support windows/linux/darwin](https://github.com/rickschubert/jira-ticket/pull/3)
 * [rickschubert/jest-json-schema-extended](https://github.com/rickschubert/jest-json-schema-extended)
 	* [fix typos](https://github.com/rickschubert/jest-json-schema-extended/pull/9)
 * [mtkennerly/kelonio](https://github.com/mtkennerly/kelonio)
