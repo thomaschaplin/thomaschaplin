@@ -13,16 +13,16 @@
 import SoftwareDeveloper from 'thomaschaplin'
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Thomas Chaplin'
-  title    = 'Software Development Engineer in Test'
-  company  = 'Tray.io | Remote'
-  location = 'Southend-on-Sea, UK'
+    name = 'Thomas Chaplin'
+    title = 'Software Development Engineer in Test'
+    company = 'Tray.io | Remote'
+    location = 'Southend-on-Sea, UK'
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['TypeScript', 'JavaScript', 'Java', 'Rust']
-  automation  = ['Selenium', 'WebdriverIO', 'Playwright', 'Tray.io']
-  frameworks = ['React', 'NextJS', 'Jest', 'GraphQL']
+    languages = ['TypeScript', 'JavaScript', 'Java', 'Rust']
+    automation = ['Selenium', 'WebdriverIO', 'Playwright', 'Tray.io']
+    frameworks = ['React', 'NextJS', 'Jest', 'GraphQL']
 }
 ```
 
