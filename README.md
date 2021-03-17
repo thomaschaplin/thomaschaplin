@@ -1,19 +1,29 @@
-#### 🔭 I’m currently working at [Tray.io](https://tray.io/)
-We're hiring great people just like you, take a look at some of the [open positions](https://grnh.se/f43ac2912).
+<h1 align="center">Hi, I'm Thomas Chaplin! :wave:</h1>
 
-#### 🦀 I’m currently learning [Rust](https://www.rust-lang.org/)
-[JavaScript](https://www.javascript.com/) & [TypeScript](https://www.typescriptlang.org/) are my top languages but I want to broaden my knowledge.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thomaschaplin)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-chaplin/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thomaschaplin@outlook.com)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://thomaschaplin.medium.com/)
+[![YouTube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCgrsESnTqiMw37T-Xh5FW-g)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ThomasChaplin_)
+[![NPM](https://img.shields.io/badge/-npm-white?style=flat&logo=npm&logoColor=black)](https://www.npmjs.com/~thomaschaplin)
+[![](https://komarev.com/ghpvc/?username=thomaschaplin)](https://github.com/thomaschaplin)
 
-#### 👯 I’m looking to collaborate on anything open source
-I have contributed to various repositories, see the full list [here](contributions.md).
+```ts
+import SoftwareDeveloper from 'thomaschaplin'
 
-#### 💬 Ask me about anything to do with automation or testing
-I love to test / automate all things big and small.
+class Bio extends SoftwareDeveloper {
+  name     = 'Thomas Chaplin'
+  title    = 'Software Development Engineer in Test'
+  company  = 'Tray.io | Remote'
+  location = 'Southend-on-Sea, UK'
+}
 
-#### 📫 How to reach me: [Email](mailto:thomaschaplin@outlook.com) / [Twitter](https://twitter.com/ThomasChaplin_) / [LinkedIn](https://www.linkedin.com/in/thomas-chaplin/) / [YouTube](https://www.youtube.com/channel/UCgrsESnTqiMw37T-Xh5FW-g) / [Website](https://www.thomaschaplin.me/)
-Hit me up if you want a general chat or to collaborate on something.
+class Skills extends SoftwareDeveloper {
+  languages  = ['TypeScript', 'JavaScript', 'Java', 'Rust']
+  automation  = ['Selenium', 'WebdriverIO', 'Playwright', 'Tray.io']
+  frameworks = ['React', 'NextJS', 'Jest', 'GraphQL']
+}
+```
 
-#### 🎣 Fun fact: I enjoy fishing
-Going back to basics and waiting for that bite.
-
-![](https://komarev.com/ghpvc/?username=thomaschaplin)
+I :heart: giving back to the Open Source community, checkout my [contributions](contributions.md)
