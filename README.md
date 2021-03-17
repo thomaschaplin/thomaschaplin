@@ -25,3 +25,5 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'NextJS', 'Jest', 'GraphQL']
 }
 ```
+
+I :heart: giving back to the Open Source community, checkout my [contributions](contributions.md)
