@@ -7,6 +7,7 @@
 [![YouTube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCgrsESnTqiMw37T-Xh5FW-g)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ThomasChaplin_)
 [![NPM](https://img.shields.io/badge/-npm-white?style=flat&logo=npm&logoColor=black)](https://www.npmjs.com/~thomaschaplin)
+[![GitHub Stars](https://img.shields.io/github/stars/thomaschaplin?label=Total%20stars)](https://github.com/thomaschaplin)
 [![](https://komarev.com/ghpvc/?username=thomaschaplin)](https://github.com/thomaschaplin)
 
 ```ts
