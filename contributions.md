@@ -10,6 +10,7 @@ The below list contains all the pull requests I've submitted (and have been appr
 * [microsoft/playwright](https://github.com/microsoft/playwright)
 	* [chore(typo): resolve typo in src/progress.ts](https://github.com/microsoft/playwright/pull/4041)
 	* [chore(types): add return type to advancePosition](https://github.com/microsoft/playwright/pull/3961)
+	* [devops(dependencies): Add missing package libxshmfence1 to ubuntu:20.04](https://github.com/microsoft/playwright/pull/7796)
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 	* [docs(examples): update selector for search example](https://github.com/puppeteer/puppeteer/pull/6471)
 * [appwrite/playground-for-deno](https://github.com/appwrite/playground-for-deno)
