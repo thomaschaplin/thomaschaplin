@@ -10,21 +10,15 @@
 [![GitHub Stars](https://img.shields.io/github/stars/thomaschaplin?label=Total%20stars)](https://github.com/thomaschaplin)
 [![](https://komarev.com/ghpvc/?username=thomaschaplin)](https://github.com/thomaschaplin)
 
-```ts
-import SoftwareDeveloper from 'thomaschaplin'
-
-class Bio extends SoftwareDeveloper {
-    name = 'Thomas Chaplin'
-    title = 'Software Development Engineer in Test'
-    company = 'Tray.io | Remote'
-    location = 'Southend-on-Sea, UK'
-}
-
-class Skills extends SoftwareDeveloper {
-    languages = ['TypeScript', 'JavaScript', 'Java', 'Rust']
-    automation = ['Selenium', 'WebdriverIO', 'Playwright', 'Tray.io']
-    frameworks = ['React', 'NextJS', 'Jest', 'GraphQL']
-}
+```
+$$$$$$$$\ $$\                                                   
+\__$$  __|$$ |                                                      @thomaschaplin
+   $$ |   $$$$$$$\   $$$$$$\  $$$$$$\$$$$\   $$$$$$\   $$$$$$$\     --------------
+   $$ |   $$  __$$\ $$  __$$\ $$  _$$  _$$\  \____$$\ $$  _____|    Name: Thomas Chaplin
+   $$ |   $$ |  $$ |$$ /  $$ |$$ / $$ / $$ | $$$$$$$ |\$$$$$$\      Company: Tray.io
+   $$ |   $$ |  $$ |$$ |  $$ |$$ | $$ | $$ |$$  __$$ | \____$$\     Job Title: SDET
+   $$ |   $$ |  $$ |\$$$$$$  |$$ | $$ | $$ |\$$$$$$$ |$$$$$$$  |    Programming Languages: TypeScript | JavaScript
+   \__|   \__|  \__| \______/ \__| \__| \__| \_______|\_______/     Location: Southend-on-Sea, UK | Remote
 ```
 
 I :heart: giving back to the Open Source community, checkout my [contributions](contributions.md)
