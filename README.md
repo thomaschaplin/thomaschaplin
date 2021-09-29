@@ -17,8 +17,8 @@ $$$$$$$$\ $$\
    $$ |   $$  __$$\ $$  __$$\ $$  _$$  _$$\  \____$$\ $$  _____|    Name: Thomas Chaplin
    $$ |   $$ |  $$ |$$ /  $$ |$$ / $$ / $$ | $$$$$$$ |\$$$$$$\      Company: Tray.io
    $$ |   $$ |  $$ |$$ |  $$ |$$ | $$ | $$ |$$  __$$ | \____$$\     Job Title: SDET
-   $$ |   $$ |  $$ |\$$$$$$  |$$ | $$ | $$ |\$$$$$$$ |$$$$$$$  |    Programming Languages: TypeScript | JavaScript
-   \__|   \__|  \__| \______/ \__| \__| \__| \_______|\_______/     Location: Southend-on-Sea, UK | Remote
+   $$ |   $$ |  $$ |\$$$$$$  |$$ | $$ | $$ |\$$$$$$$ |$$$$$$$  |    Programming Languages: TypeScript | Rust
+   \__|   \__|  \__| \______/ \__| \__| \__| \_______|\_______/     Location: Essex, UK | Remote
 ```
 
 I :heart: giving back to the Open Source community, checkout my [contributions](contributions.md)
