@@ -22,6 +22,8 @@ The below list contains all the pull requests I've submitted (and have been appr
 	* [improve openLinkInBrowser to support windows/linux/darwin](https://github.com/rickschubert/jira-ticket/pull/3)
 * [rickschubert/jest-json-schema-extended](https://github.com/rickschubert/jest-json-schema-extended)
 	* [fix typos](https://github.com/rickschubert/jest-json-schema-extended/pull/9)
+* [rickschubert/rickschubert.github.io](https://github.com/rickschubert/rickschubert.github.io)
+	* [Update YouTube Link](https://github.com/rickschubert/rickschubert.github.io/pull/1)
 * [mtkennerly/kelonio](https://github.com/mtkennerly/kelonio)
 	* [test(jest): rename keepState to keepStateAtEnd](https://github.com/mtkennerly/kelonio/pull/2)
 	* [feat(verifyMeasurement): add marginOfErrorUnder & standardDeviationUnder](https://github.com/mtkennerly/kelonio/pull/3)
