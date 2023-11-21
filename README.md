@@ -16,7 +16,7 @@ $$$$$$$$\ $$\
    $$ |   $$$$$$$\   $$$$$$\  $$$$$$\$$$$\   $$$$$$\   $$$$$$$\     --------------
    $$ |   $$  __$$\ $$  __$$\ $$  _$$  _$$\  \____$$\ $$  _____|    Name: Thomas Chaplin
    $$ |   $$ |  $$ |$$ /  $$ |$$ / $$ / $$ | $$$$$$$ |\$$$$$$\      Company: Tray.io
-   $$ |   $$ |  $$ |$$ |  $$ |$$ | $$ | $$ |$$  __$$ | \____$$\     Job Title: Senior Software Development Engineer in Test
+   $$ |   $$ |  $$ |$$ |  $$ |$$ | $$ | $$ |$$  __$$ | \____$$\     Job Title: Systems Engineer
    $$ |   $$ |  $$ |\$$$$$$  |$$ | $$ | $$ |\$$$$$$$ |$$$$$$$  |    Programming Languages: TypeScript | Rust
    \__|   \__|  \__| \______/ \__| \__| \__| \_______|\_______/     Location: Essex, UK | Remote
 ```
