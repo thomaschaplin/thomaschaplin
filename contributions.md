@@ -7,6 +7,8 @@ Here is a list of all my open source contributions.
 
 The below list contains all the pull requests I've submitted (and have been approved and merged) 
 
+* [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+	* [feat: add support for CONNECT operations](https://github.com/open-policy-agent/gatekeeper/pull/3459)
 * [microsoft/playwright](https://github.com/microsoft/playwright)
 	* [chore(typo): resolve typo in src/progress.ts](https://github.com/microsoft/playwright/pull/4041)
 	* [chore(types): add return type to advancePosition](https://github.com/microsoft/playwright/pull/3961)
