@@ -4,7 +4,7 @@
            |    _________________________________________     |
            |   |                                         |    |
            |   |  Thomas Chaplin                         |    |
-           |   |  Systems Engineer at Tray.io            |    |
+           |   |  Sr. Systems Engineer at Tray.ai        |    |
            |   |                                         |    |
            |   |  * Kubenentes                           |    |
            |   |  * Terraform                            |    |
