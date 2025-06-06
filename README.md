@@ -6,7 +6,7 @@
            |   |  Thomas Chaplin                         |    |
            |   |  Sr. Systems Engineer at Tray.ai        |    |
            |   |                                         |    |
-           |   |  * Kubenentes                           |    |
+           |   |  * Kubernetes                           |    |
            |   |  * Terraform                            |    |
            |   |  * Amazon Web Services                  |    |
            |   |  * GitHub Actions                       |    |
