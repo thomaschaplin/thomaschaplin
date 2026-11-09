@@ -1,11 +1,11 @@
 # Contributions
 
-Here is a list of all my open source contributions.
+A list of my open-source contributions.
 
 
 ## Pull Requests
 
-The below list contains all the pull requests I've submitted (and have been approved and merged) 
+The below list contains all the pull requests I've submitted and that have been merged:
 
 * [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 	* [feat: add support for CONNECT operations](https://github.com/open-policy-agent/gatekeeper/pull/3459)
@@ -29,6 +29,6 @@ The below list contains all the pull requests I've submitted (and have been appr
 * [mtkennerly/kelonio](https://github.com/mtkennerly/kelonio)
 	* [test(jest): rename keepState to keepStateAtEnd](https://github.com/mtkennerly/kelonio/pull/2)
 	* [feat(verifyMeasurement): add marginOfErrorUnder & standardDeviationUnder](https://github.com/mtkennerly/kelonio/pull/3)
-  	* [add printResultsAtEnd option & update examples & test coverage](https://github.com/mtkennerly/kelonio/pull/4)
+	* [add printResultsAtEnd option & update examples & test coverage](https://github.com/mtkennerly/kelonio/pull/4)
 	* [initializeKelonio now creates an empty state](https://github.com/mtkennerly/kelonio/pull/6)
 	* [add keepStateAtStart option & update examples & test coverage](https://github.com/mtkennerly/kelonio/pull/7)
