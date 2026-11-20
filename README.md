@@ -17,7 +17,7 @@ Spec:
   Tools:      terraform, pulumi, helm, argo cd, grafana, github actions
 Status:
   Phase:               Running
-  Side Projects:       6   # <a href="#things-ive-made">listed below</a>
+  Side Projects:       7   # <a href="#things-ive-made">listed below</a>
   Talks Given:         4   # <a href="https://www.youtube.com/channel/UCgrsESnTqiMw37T-Xh5FW-g">on YouTube</a>
   Merged Upstream PRs: 16  # <a href="contributions.md">contributions.md</a>
   Conditions:
@@ -40,6 +40,7 @@ Events:
 - 🍌 [We Need Bananas](https://weneedbananas.com/): a shared shopping list you join with three words.
 - 🔧 [JSON Tools](https://json.thomaschaplin.me/): format, repair, query and diff JSON without it leaving your browser.
 - 💀 [kmortem](https://github.com/thomaschaplin/kmortem): a Kubernetes operator that saves a report of what was running on a node, and why it died, before the node is gone.
+- 🤖 [mindthebot](https://github.com/thomaschaplin/mindthebot): a CLI and GitHub Action that checks whether your team acts on its AI code reviewers. It scores every AI review comment as addressed, dismissed or ignored.
 - 🧵 [rust-counter-strings](https://github.com/thomaschaplin/rust-counter-strings): a CLI that generates counterstrings for testing input fields. Each `*` sits at the position named before it (`2*4*6*8*11*`), so you can see exactly where a field truncates.
 - 🍳 [Chaplin Kitchen](https://chaplinkitchen.com/): recipes that actually get cooked.
 - 📦 [Many more](https://github.com/thomaschaplin?tab=repositories) on my repositories page.
